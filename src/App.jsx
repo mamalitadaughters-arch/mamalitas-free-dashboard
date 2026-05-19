@@ -125,7 +125,7 @@ function UpgradeBanner() {
         fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700,
         fontSize: 13, padding: "9px 20px", borderRadius: 50, textDecoration: "none",
         letterSpacing: "0.03em",
-      }}>Upgrade for $27 →</a>
+      }}>Upgrade for $30 →</a>
     </div>
   );
 }
@@ -358,7 +358,7 @@ function PremiumTab() {
         <div style={{ fontFamily: "'Playfair Display', Georgia, serif", color: C.plum, fontSize: 20, fontWeight: 700, marginBottom: 6 }}>
           One-Time Payment
         </div>
-        <div style={{ fontSize: 40, fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, color: C.mauve, marginBottom: 4 }}>$27</div>
+        <div style={{ fontSize: 40, fontFamily: "'Playfair Display', Georgia, serif", fontWeight: 700, color: C.mauve, marginBottom: 4 }}>$30</div>
         <div style={{ fontSize: 12, color: "#aaa", fontFamily: "Georgia, serif", marginBottom: 16 }}>Pay once. Yours forever. 🌸</div>
         <div style={{ background: C.cream, borderRadius: 12, padding: "10px 14px", marginBottom: 16, fontFamily: "Georgia, serif", fontStyle: "italic", fontSize: 13, color: C.plum, borderLeft: `3px solid ${C.gold}`, textAlign: "left" }}>
           "She considers a field and buys it." — Proverbs 31:16<br />
@@ -421,7 +421,7 @@ export default function App() {
               background: C.gold, color: C.plum, fontFamily: "Georgia, serif",
               fontWeight: 700, fontSize: 11, padding: "6px 14px", borderRadius: 50,
               textDecoration: "none", letterSpacing: "0.04em", marginTop: 4, whiteSpace: "nowrap",
-            }}>👑 Upgrade $27</a>
+            }}>👑 Upgrade $30</a>
           </div>
           <div style={{ marginTop: 14, background: "rgba(201,168,76,0.15)", borderLeft: `2px solid ${C.gold}`, padding: "8px 12px", borderRadius: "0 8px 8px 0" }}>
             <div style={{ color: "rgba(255,255,255,0.8)", fontSize: 11, fontStyle: "italic", lineHeight: 1.6, fontFamily: "Georgia, serif" }}>"{wisdom}"</div>
