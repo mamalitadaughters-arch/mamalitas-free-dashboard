@@ -8,8 +8,8 @@ const C = {
 // ─────────────────────────────────────────────
 // REPLACE THESE WITH YOUR REAL LINKS
 const PAID_DASHBOARD_URL = "https://mamalitas-client-dashboard.vercel.app";
-const PURCHASE_URL = "https://gumroad.com/your-product-link"; // swap for your Gumroad/Stripe link
-const COACH_EMAIL = "hello@mamalitas.com";
+const PURCHASE_URL = "https://mamalita.gumroad.com/l/qlxxolu";
+const COACH_EMAIL = "mama.lita.daughters@gmail.com";
 // ─────────────────────────────────────────────
 
 const wisdoms = [
